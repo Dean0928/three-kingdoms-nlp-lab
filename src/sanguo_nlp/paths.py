@@ -4,7 +4,7 @@ from __future__ import annotations
 from pathlib import Path
 
 PACKAGE_DIR = Path(__file__).resolve().parent
-ROOT = PACKAGE_DIR.parents[1]  # sanguo-nlp-lab/
+ROOT = PACKAGE_DIR.parents[1]  # three-kingdoms-nlp-lab/
 
 DATA_DIR = ROOT / "data"
 RAW_DIR = DATA_DIR / "raw"

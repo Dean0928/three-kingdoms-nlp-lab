@@ -13,7 +13,7 @@ Python 3.10+ · Jupyter Notebook · MIT License
 ## 目录结构
 
 ```text
-sanguo-nlp-lab/
+three-kingdoms-nlp-lab/
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
@@ -62,8 +62,8 @@ sanguo-nlp-lab/
 ## 快速开始
 
 ```bash
-git clone https://github.com/<your-name>/sanguo-nlp-lab.git
-cd sanguo-nlp-lab
+git clone https://github.com/<your-name>/three-kingdoms-nlp-lab.git
+cd three-kingdoms-nlp-lab
 
 python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
